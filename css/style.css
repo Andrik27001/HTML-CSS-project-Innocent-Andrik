@@ -1,0 +1,10 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.nav-link{
+    padding: 20px;
+    font-style: none;
+    color: black;
+}
